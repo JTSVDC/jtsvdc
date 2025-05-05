@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá 👋 Eu sou José Tadeu
 
-<!--
-**JTSVDC/jtsvdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou  estudante do ensino médio ,cursando desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Experiência breveamente em python.
+- 🔐 Interesso-me por **cibersegurança**.
+
+
+📫 Contato:@jt_svdc (insta)
+
+---
+
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  
+
+---
+
+<p align="center">
+ 
+</p>
+
+---
+
