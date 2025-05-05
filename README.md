@@ -3,7 +3,7 @@
 Sou  estudante do ensino médio ,cursando desenvolvimento de sistemas.
 
 
-- 💻 Experiência breveamente em python.
+- 💻 Experiência brevea em python.
 - 🔐 Interesso-me por **cibersegurança**.
 
 
