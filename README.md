@@ -4,7 +4,7 @@ Sou  estudante do ensino médio ,cursando desenvolvimento de sistemas.
 
 
 - 💻 Experiência brevea em python.
-- 🔐 Interesso-me por **cibersegurança**.
+- 🔐 Interesse por **cibersegurança**.
 
 
 📫 Contato:@jt_svdc (insta)
